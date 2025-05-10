@@ -30,7 +30,7 @@ public class MainClass {
 			System.out.println(rest2);
 
 			
-			DiaGenerico dia = new Dia06();
+			DiaGenerico dia = new Dia07();
 			
 			
 			dia.executarDesafio(lista);
