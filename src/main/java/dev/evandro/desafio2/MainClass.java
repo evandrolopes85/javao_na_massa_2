@@ -30,9 +30,9 @@ public class MainClass {
 			System.out.println(rest2);
 
 			
-			DiaGenerico dia = new Dia05();
+			DiaGenerico dia = new Dia06();
 			
-			dia = new Dia05();
+			
 			dia.executarDesafio(lista);
 			// System.out.println(jsonStr);
 		} catch (Exception ex) {
